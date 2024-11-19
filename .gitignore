@@ -1,1 +1,6 @@
 Recorded_Data/
+
+# virtualenv
+.venv/
+venv/
+ENV/
