@@ -1,1 +1,1 @@
-# IntelliTrade_TradingBot
+# IntelliTrade_DataCollection
